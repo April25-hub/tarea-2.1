@@ -22,5 +22,8 @@ resultado = num1*num2*num3
 #mostrar el resultado de la multiplicacion
 
 print("el resultado de la multiplicacion es:",resultado)
-![image](https://github.com/user-attachments/assets/be887656-45a8-4a79-aa40-a936a897e9ae)
+![image](https://github.com/user-attachments/assets/dfaa93a9-56f3-477c-873a-10208668de7b)
+![image](https://github.com/user-attachments/assets/2146472b-9cb8-429c-b6c7-b4139ef8c008)
+
+
 
